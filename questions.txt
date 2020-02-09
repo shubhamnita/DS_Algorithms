@@ -1,0 +1,7 @@
+Questions:
+1. How sharding works?
+2. How you can optimize a postgres query?
+3. How index can be implemented [B+Trees]and does  matter between them ?
+4. Mocking a database connection in api. [Basically mocking in python api creation]
+5. difference between lock and mutex ?
+
