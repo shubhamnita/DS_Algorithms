@@ -20,6 +20,5 @@ def merge(t1,t2):
     t1.val += t2.val
     t1.left = merge(t1.left,t2.left)
     t2.right = merge(t1.right,t2.right)
-    r
-    eturn t1
+    return t1
     
